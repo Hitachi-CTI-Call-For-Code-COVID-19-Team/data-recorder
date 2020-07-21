@@ -1,4 +1,4 @@
-i function main(params) {
+function main(params) {
         var result = params.messages[0].value
         console.log(params.messages)
         result["format"] = "json"

@@ -7,10 +7,8 @@
         doc.timestamp = dt.toISOString()
         return doc
     })
-    //console.log(docs)
-    console.log("iotp_o9ypqz_default_" + getDateString(dt))
     return {
-        dbname: "iotp_o9ypqz_default_" + getDateString(dt),
+        dbname: "z_iotp_o9ypqz_default_" + getDateString(dt),
         docs: { docs: docs}
     }
 }

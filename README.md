@@ -1,5 +1,5 @@
 ## Data Recorder
-<center><img src="./img/datarecorder.jpg" width="60%" border="1" style="padding: 20px"></center>
+<center><img src="./img/datarecorder.jpg" width="50%" border="1" style="padding: 20px"></center>
 
 - The data recorder, one of the back-end functions of the COVSAFE solution, runs on IBM Cloud Function.
 - The main function of the data recorder is to store edge-side sensing data in a persistent database in the cloud. The data recorder streams edge-side sensor data by consuming topics in the IBM Cloud Event Stream, and stores the updates sequentially in the cloudant database.　

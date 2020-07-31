@@ -10,8 +10,9 @@
 
 ## How to Install and Setup
 
-- see [./cloud-functions/configure.sh](./cloud-functions/configure.sh)
-
+- Run [the script](./cloud-functions/configure.sh).
+  - **NOTICE: **You will need to modify the variables to fit your environment in order for the script to run.
+      If you build the COVSAFE solution by runnning the scripts of delivery repository, you need not modify it.
 
 ## License
 - see [LICENSE](./LICENSE)

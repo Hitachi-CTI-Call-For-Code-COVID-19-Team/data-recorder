@@ -14,7 +14,7 @@
   - **NOTICE: **You will need to modify the variables to fit your environment in order for the script to run.
       If you build the COVSAFE solution by runnning the scripts of delivery repository, you need not modify it.
       ```bash
-      $ ./cloud-functions/config.sh
+      $ ./cloud-functions/configure.sh
       ```
 
 ## License
